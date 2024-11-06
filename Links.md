@@ -1,6 +1,6 @@
 # CCNA 200-301
 ## General
-- [Exam Topics](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGw1ZmRLSHdOQmFXSWdwMUo0RG00TkdPLWlXZ3xBQ3Jtc0ttMy1VNzJCdGM1cW1GbWpHY2V2RXhrWjh6THVJdDRFSC0xMjViVlUzWTJidEpGYWdITmZYSXNHMHktMGhyLWtURUxMTTFiaHhCaEpRQzVyOFJNTUN4NkNxYVM1TWdSQi1VZXRIZUZJUlBBdnpZZnllSQ&q=https%3A%2F%2Flearningnetwork.cisco.com%2Fs%2Fccna-exam-topics&v=4swmb5hUs_c)
+- [Exam Topics](https://learningnetwork.cisco.com/s/ccna-exam-topics)
 ## Jeremy IT Labs
 - [Flashcards + Packet Tracer Labs](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3IyNWFqdHpXbklocldFN1BTM2pnSGxnZlFNUXxBQ3Jtc0tteDFRaTZyTmljNkRZZmhBMVVQTFhQXzJTVk56RlhlMXBjM3dMd1dmZTJsZmtPUEFJck13Y2JlNWpMMTFkUmRua2htaTVCR05Jb0cwcTVCM0pBNjdiRldkUE4wUDU5VHV3WThCUXJQeUdsV3R0UmJkNA&q=https%3A%2F%2Fjitl.jp%2Fccna-files&v=4swmb5hUs_c)
 - [Book Vol 1](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVE5dTMyU0hqc2hoSTRWQV9JcEc5cjZaeGF1QXxBQ3Jtc0tubGpFd2FIZFVPTEduU2JhQ25hbTM3aFh6ME1KTG81TGh2XzdiQ3d3dFFDVXRpNTY4RnNXTXpSb3NnUmxJcHo3T21SZHFNM0Frc29tUlZ2RVliZWhFcVN4TW1QT1YzWXNjaUxwczVPUXpmcmJUb3k1NA&q=https%3A%2F%2Fjitl.jp%2Fbook1-yt&v=4swmb5hUs_c)
